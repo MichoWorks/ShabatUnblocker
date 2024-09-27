@@ -21,7 +21,7 @@
 אם יש לך רעיונות לשיפורים או אתרים נוספים, אל תהסס להוסיף Issues או Pull Requests! 🤝
 
 ## קוד הסקריפט
-הקוד המלא של Davidi - Shabbat Unblocker זמין ב-[GitHub](https://github.com/MichoWorks/ShabatUnblocker) 💻
+הקוד המלא של Davidi - Shabbat Unblocker זמין ב-[GitHub](https://raw.githubusercontent.com/MichoWorks/ShabatUnblocker/refs/heads/main/Davidi%20-%20Shabat%20Unblocker.js) 💻
 
 ## תמונה
 ![Davidi Shabbat Unblocker](https://i.ibb.co/LR2FSnr/Untitled.png)
@@ -49,7 +49,6 @@ During Shabbat, it is not possible to make purchases through the website, only t
 If you have ideas for improvements or new sites, feel free to add Issues or Pull Requests! 🤝
 
 ## Code
-The full code for Davidi - Shabbat Unblocker is available on [GitHub](https://github.com/MichoWorks/ShabatUnblocker) 💻
+The full code for Davidi - Shabbat Unblocker is available on [GitHub](https://raw.githubusercontent.com/MichoWorks/ShabatUnblocker/refs/heads/main/Davidi%20-%20Shabat%20Unblocker.js) 💻
 
-## Image
-![Davidi Shabbat Unblocker](https://i.ibb.co/LR2FSnr/Untitled.png)
+
