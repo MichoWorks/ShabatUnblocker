@@ -2,6 +2,8 @@
 
 ## מה זה Davidi - Shabbat Unblocker? 
 **Davidi - Shabbat Unblocker** 
+
+
 הוא סקריפט שנועד לשפר את חוויית הגלישה שלך בזמן שבת על האתר - www.ddavidi.co.il.
 
 
