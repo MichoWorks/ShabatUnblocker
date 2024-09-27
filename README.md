@@ -1,7 +1,9 @@
 # Davidi - Shabbat Unblocker 🌟
 
 ## מה זה Davidi - Shabbat Unblocker? 
-**Davidi - Shabbat Unblocker** הוא סקריפט שנועד לשפר את חוויית הגלישה שלך בזמן שבת על האתר www.ddavidi.co.il.
+**Davidi - Shabbat Unblocker** 
+הוא סקריפט שנועד לשפר את חוויית הגלישה שלך בזמן שבת על האתר - www.ddavidi.co.il.
+
 
 **הסקריפט מסיר אלמנטים לא רצויים מהדף ומציג את שעות כניסת ויציאת השבת בזמן אמת. 🕯️✨**
 
@@ -28,7 +30,7 @@
 ## תמונה
 ![Davidi Shabbat Unblocker](https://i.ibb.co/LR2FSnr/Untitled.png)
 
-## English Version
+## English 
 
 ## What is Davidi - Shabbat Unblocker?
 **Davidi - Shabbat Unblocker** is a script designed to enhance your browsing experience during Shabbat on the website www.ddavidi.co.il. The script removes unwanted elements from the page and displays the candle lighting and Havdalah times in real-time. 🕯️✨
